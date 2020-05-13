@@ -8,8 +8,8 @@ Reduce the workload of faculty.
 Students can also easily take the notes on the system.
 
 ## Some Screenshot of this Web Application :
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
-![](5.png)
+![](Pics/1.png)
+![](Pics/2.png)
+![](Pics/3.png)
+![](Pics/4.png)
+![](Pics/5.png)
