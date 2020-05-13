@@ -9,7 +9,12 @@
 
 ## Some Screenshot of this Web Application :
 ![](Pics/1.png)
+- Login Page
 ![](Pics/2.png)
+- Home Page
 ![](Pics/3.png)
+- Update Faculty Data
 ![](Pics/4.png)
+- Compiler Page
 ![](Pics/5.png)
+- Update Personal Details
